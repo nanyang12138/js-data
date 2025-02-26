@@ -1,9 +1,5 @@
 #!/bin/env perl
 
-################################################################################################
-# Copyright (c) 2021 Advanced Micro Devices, Inc.  All rights reserved.
-################################################################################################
-
 use strict;                 # Always run in strict mode to avoid common pitfalls.
 use warnings;
 use Getopt::Long;           # Command line parsing

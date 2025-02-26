@@ -1,9 +1,5 @@
 #!/bin/env perl
 
-################################################################################################
-# Copyright (c) 2020 Advanced Micro Devices, Inc.  All rights reserved.
-################################################################################################
-
 package gcDiskAdmin;
 
 use strict;                 # Always run in strict mode to avoid common pitfalls.
